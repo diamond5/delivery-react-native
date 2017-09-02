@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">Oj_dBNGkTOYOLtg1G5VI4eSGDOTmNJsFM3_iM</string>
+    <string name="app_name">Delivery Master</string>
+    <string name="account_type">com.DeliveryMaster.account</string>
+    <string name="content_authority">com.DeliveryMaster.authority</string>
+</resources>

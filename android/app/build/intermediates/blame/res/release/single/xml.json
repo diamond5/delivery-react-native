@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/exploded-aar/DM/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/res/merged/release/xml/syncadapter.xml",
+        "source": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/exploded-aar/DM/react-native-mauron85-background-geolocation/unspecified/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/res/merged/release/xml/authenticator.xml",
+        "source": "/Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/android/app/build/intermediates/exploded-aar/DM/react-native-mauron85-background-geolocation/unspecified/res/xml/authenticator.xml"
+    }
+]

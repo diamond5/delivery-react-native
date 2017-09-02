@@ -1,0 +1,27 @@
+dependencies: \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/node_modules/react-native-signature-capture/ios/RSSignatureViewManager.m \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/node_modules/react-native-signature-capture/ios/RSSignatureViewManager.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/node_modules/react-native-signature-capture/ios/RSSignatureView.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/node_modules/react-native-signature-capture/ios/PPSSignatureView.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Volumes/WORKS/dmsoftware/bitbucket/dmsoftware/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h
